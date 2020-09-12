@@ -2,7 +2,7 @@
 
 _IT Professional, software developer (and I write sometimes...) based in Bristol, Vermont_ <br>
 
-[Email](mailto:david.mcclellan.p@gmail.com) / [Website](https://hacdan.org/) / [LinkedIn](https://www.linkedin.com/in/david-mcclellan-a02ab731/) / [GitHub](https://github.com/hacdan/) / [Twitter](https://twitter.com/__dmac_88__/)
+[Email](mailto:david.mcclellan.p@gmail.com) / [Website](https://hacdan.org/) / [LinkedIn](https://www.linkedin.com/in/david-mcclellan-a02ab731/) / [GitHub](https://github.com/hacdan/) / [Twitter](https://twitter.com/_hacdan/)
 
 ## 👨‍💻 Technical Experience
 
