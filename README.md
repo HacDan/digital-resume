@@ -14,7 +14,7 @@ A Federally Qualified Health Center - Serving the community across multiple aven
   - FortiGate firewall configuration/maintenance
 <br><br>
 
-**HelpDesk Coordinator @ [Mount Mansfield Unified Union School District](https://www.mmuusd.org/) (July 2015 - September 2019** _(Oct 2019 - Sep 2019)_ <br>
+**HelpDesk Coordinator @ [Mount Mansfield Unified Union School District](https://www.mmuusd.org/) (July 2015 - September 2019)**<br>
 K12 Education School Distric with a heavy focus on Technology.
   - Oversaw multiple software evalutions and implemented them
   - Maintained Servers, server rooms, cable runs, and end users in person and remotely for about 2700 users
