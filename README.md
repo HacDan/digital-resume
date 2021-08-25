@@ -15,7 +15,7 @@ A Federally Qualified Health Center - Serving the community across multiple aven
 <br><br>
 
 **HelpDesk Coordinator @ [Mount Mansfield Unified Union School District](https://www.mmuusd.org/) (July 2015 - September 2019)**<br>
-K12 Education School Distric with a heavy focus on Technology.
+K12 Education School District with a heavy focus on Technology.
   - Oversaw multiple software evalutions and implemented them
   - Maintained Servers, server rooms, cable runs, and end users in person and remotely for about 2700 users
   - Vetted, documented, and rolled out 2 different inventory systems.
