@@ -6,7 +6,7 @@ _IT Professional, software developer (and I write sometimes...) based in Bristol
 
 ## 👨‍💻 Technical Experience
 
-**IT Manager @ [Mountain Helath Center](http://mountainhealthcenter.com)**  _(September 2019 - Present)_ <br>
+**IT Manager @ [Mountain Health Center](http://mountainhealthcenter.com)**  _(September 2019 - Present)_ <br>
 A Federally Qualified Health Center - Serving the community across multiple avenues of health.
   - Maintained multiple Windows and Linux Servers
   - Active Directory
@@ -14,7 +14,7 @@ A Federally Qualified Health Center - Serving the community across multiple aven
   - FortiGate firewall configuration/maintenance
 <br><br>
 
-**HelpDesk Coordinator @ [Mount Mansfield Unified Union School District](https://www.mmuusd.org/) (July 2015 - September 2019** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2019)_ <br>
+**HelpDesk Coordinator @ [Mount Mansfield Unified Union School District](https://www.mmuusd.org/) (July 2015 - September 2019** _(Oct 2019 - Sep 2019)_ <br>
 K12 Education School Distric with a heavy focus on Technology.
   - Oversaw multiple software evalutions and implemented them
   - Maintained Servers, server rooms, cable runs, and end users in person and remotely for about 2700 users
