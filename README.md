@@ -53,5 +53,5 @@ API-first infrastructure to create, manage and distribute content.
 **Bachelor of Science** in Computer Science<br>
 _The University of Phoneix - Axia College_ - Phoenix, Arizona, USA _(2007 - 2011)_
 
-**High School** @ Vergennes Union High School - Vergennes VT, USA _(June 2017)_
+**High School** @ Vergennes Union High School - Vergennes VT, USA _(June 2007)_
 
