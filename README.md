@@ -12,10 +12,10 @@ A Federally Qualified Health Center - Serving the community across multiple aven
   - Automated workflow with PowerShell, Python, and Go to improve efficiency in day to day tasks
   - Maintained and migrated to Active Directory 2016 from 2008 R2
   - Designed, purchased, configured, and installed UniFi networking hardware
-  - Speced, hardened, and installed Fortigate firewalls 
+  - Designed, hardened, and installed Fortigate firewalls 
   - Performed system maintenance, upgrades, and improvements on Windows Server 2016/2019 and MSSQL tuning
   - Designed and implemented multiple Linux (Ubuntu) servers for IT Services use.
-  - Designed and implemented a $45,000 Hyper-V upgrade to fit the companies needs without going overbudget into a SAN.
+  - Designed and implemented a $45,000 Hyper-V upgrade to fit the companies needs without going over budget into a SAN.
   - Wrote policy and procedures for various IT services
 <br><br>
 
@@ -28,7 +28,7 @@ K12 Education School District with a heavy focus on Technology.
   - Vetted, documented, and rolled out 2 different inventory systems.
   - Implemented and designed Meraki wireless and wired networking systems, including redundant firewalls
   - Repaired and maintained a fleet of approximately 950 Windows and ChromeOS devices from software to hardware repair including full rebuilds on each type
-  - Wrote proceduces and implemented procedures for new computer hardware setup
+  - Wrote procedures and implemented procedures for new computer hardware setup
   - Planned and made purchasing decisions on a $250,000 budget for hardware and software
   - Streamlined Windows computer imaging all while greatly reducing costs.
   - Moved many core-servers to cloud (AWS) computing solutions to save on upgrade costs along with an improved environmental footprint
@@ -39,7 +39,7 @@ Multi-state grocer responsible for healthy alternatives to national grocery stor
   - Designed and implemented crucial data manipulation software to assist purchasing and inventory management. 
   - Designed and implemented a parsing script to reduce processing time on flat-files for inventory and purchasing.
   - Diagnosed and repaired multiple hardware and software issues in a thin-client environment
-  - Purchased and provisioned Thin clients, Fat clients, and new backend servers
+  - Purchased and provisioned Thin clients, Fat clients, and new back-end servers
   - **_Technologies used:_** Visual Studio, Visual Basic, MS Access, HTML, Python
   <br><br>
 
@@ -60,7 +60,7 @@ API-first infrastructure to create, manage and distribute content.
 <br>
 
 **Bachelor of Science** in Computer Science<br>
-_The University of Phoneix - Axia College_ - Phoenix, Arizona, USA _(2007 - 2011)_
+_The University of Phoenix - Axia College_ - Phoenix, Arizona, USA _(2007 - 2011)_
 
 **High School** @ Vergennes Union High School - Vergennes VT, USA _(June 2007)_
 
