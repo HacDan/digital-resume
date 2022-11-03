@@ -34,7 +34,7 @@ K12 Education School District with a heavy focus on Technology.
   - Moved many core-servers to cloud (AWS) computing solutions to save on upgrade costs along with an improved environmental footprint
     <br><br>
 
-**Point of Sale & IT Assistant** @ [Healthy Living Makret and Cafe](https://healthylivingmarket.com/) _(September 2014 - June 2015)_ <br>
+**Point of Sale & IT Assistant** @ [Healthy Living Market and Cafe](https://healthylivingmarket.com/) _(September 2014 - June 2015)_ <br>
 Multi-state grocer responsible for healthy alternatives to national grocery store chains
   - Designed and implemented crucial data manipulation software to assist purchasing and inventory management. 
   - Designed and implemented a parsing script to reduce processing time on flat-files for inventory and purchasing.
