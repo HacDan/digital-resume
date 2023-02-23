@@ -6,10 +6,10 @@ _IT Professional, software developer (and I write sometimes...) based in Bristol
 
 ## 👨‍💻 Technical Experience
 
-**IT Manager @ [Mountain Health Center](http://mountainhealthcenter.com)**  _(September 2019 - Present)_ <br>
+**IT Manager @ [Mountain Community Health](http://mchvt.org)**  _(September 2019 - Present)_ <br>
 A Federally Qualified Health Center - Serving the community across multiple avenues of health.
   - Wrote a custom CLI email client for Office 365
-  - Automated workflow with PowerShell, Python, and Go to improve efficiency in day to day tasks
+  - Automated workflow with PowerShell, Python, and Go to improve efficiency in day-to-day tasks
   - Maintained and migrated to Active Directory 2016 from 2008 R2
   - Designed, purchased, configured, and installed UniFi networking hardware
   - Designed, hardened, and installed Fortigate firewalls 
@@ -56,7 +56,7 @@ API-first infrastructure to create, manage and distribute content.
 **English**: Native <br>
 <br>
 
-## 👩🏼‍🎓 Education
+## 👨🏼‍🎓 Education
 <br>
 
 **Bachelor of Science** in Computer Science<br>
