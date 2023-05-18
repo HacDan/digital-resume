@@ -40,7 +40,7 @@ Multi-state grocer responsible for healthy alternatives to national grocery stor
   - Designed and implemented a parsing script to reduce processing time on flat-files for inventory and purchasing.
   - Diagnosed and repaired multiple hardware and software issues in a thin-client environment
   - Purchased and provisioned Thin clients, Fat clients, and new back-end servers
-  - **_Technologies used:_** Visual Studio, Visual Basic, MS Access, HTML, Python
+  - **_Technologies used:_** Python, Visual C++, Visual Basic, MS Access, HTML
   <br><br>
 
 **Remote Service Technician** @ [Support.com](https://www.support.com/) _(August 2013 - September 2014)_ <br>
