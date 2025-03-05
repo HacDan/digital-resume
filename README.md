@@ -17,7 +17,7 @@
 # David McClellan
 
 ## Executive Summary
-*Seasoned IT professional with over a decade of experience in systems administration, automation, and infrastructure management. Passionate about streamlining workflows through automation (Ansible, Terraform, PowerShell) and optimizing IT environments with modern cloud and on-premise solutions. Adept at leading projects that enhance efficiency, security, and scalability.*
+*Results-driven IT professional with 10+ years of experience in automation, infrastructure management, and system optimization. Adept at designing, deploying, and securing enterprise IT environments across cloud and on-premises systems. Passionate about leveraging automation tools like Ansible, Terraform, and PowerShell to enhance efficiency, scalability, and security. Proven track record of leading complex projects, streamlining workflows, and driving cost-effective IT solutions. Strong leadership and mentoring skills, with experience training IT teams and implementing best practices for system administration, security, and network infrastructure. Dedicated to continuous learning and staying ahead of emerging technologies.*
 
 
 ## Projects: 
@@ -38,27 +38,18 @@
 
 * Developed a custom CLI email client to enhance Office 365 workflow automation.
 * Automated workflows using PowerShell, Python, and Go, significantly improving daily operational efficiency.
-* Maintained and migrated to Active Directory 2016 from 2008 R2
-* Designed, purchased, configured, and installed UniFi networking hardware
-* Designed, hardened, and installed Fortigate firewalls 
 * Optimized Windows Server 2016/2019 performance, including MSSQL tuning, through proactive maintenance and upgrades.
-* Deployed and configured multiple Linux (Ubuntu) servers, enhancing IT service capabilities and system reliability.
-* Executed a $45,000 Hyper-V upgrade, improving system performance by 40% and reducing infrastructure costs by eliminating SAN dependency
 * Established and enforced IT policies, enhancing security awareness and compliance across the organization.
 * Led and trained support staff in all aspects of IT with little computer background.
 
 #### Mount Mansfield Unified Union School District (Helpdesk Coordinator, 2015/07 - 2019/09) 
 
 * Designed and solely wrote a Chrome extension to implement new features in a custom SaaS product that was crucial to day-to-day operations
-* Evaluated and implemented a new Student Information System
 * Managed and optimized Windows/Linux servers (on-site and cloud-based), improving efficiency and rack organization for streamlined operations.
 * Resolved IT support requests for ~2700 users, reducing average ticket resolution time by 60% through automation and process improvements while improving staff satisfaction with IT by 40%.
-* Vetted, documented, and rolled out 2 different inventory systems.
 * Implemented and designed Meraki wireless and wired networking systems, including redundant firewalls
 * Repaired and maintained a fleet of approximately 950 Windows and ChromeOS devices from software to hardware repair including full rebuilds on each type
-* Developed and implemented procedures for new computer hardware setup, ensuring streamlined deployment.
 * Planned and made purchasing decisions on a $250,000 budget for hardware and software
-* Streamlined Windows computer imaging all while greatly reducing costs.
 * Moved many core-servers to cloud (AWS) computing solutions to save on upgrade costs along with an improved environmental footprint
 
 #### Healthy Living Market & Cafe (Point of Sale & IT Assistant, 2014/09 - 2015/06)
