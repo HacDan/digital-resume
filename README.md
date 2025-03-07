@@ -28,7 +28,7 @@
   * **Technologies Used:** Go, [SPF13/Viper](github.com/spf13/viper)
 * [Shellcheck-API](https://github.com/HacDan/shellcheck_api) A Web API written in Go that provides linting for shell scripts using ShellCheck.
   * **Technologies Used:** Go, Standard Library
-* [gtodo](https://github.com/HacDan/gtodo) A Go-Based CLI for managing tasks locally.
+* [itc](https://github.com/HacDan/issue-tracker-cli) A Go-Based CLI for managing issues in a local database.
   * **Technologies Used:** Go, SQLite
 
 
@@ -36,45 +36,35 @@
 
 #### Mountain Community Health (IT Manager, 2019/09 - present) 
 
-* Developed a custom CLI email client to enhance Office 365 workflow automation.
-* Automated workflows using PowerShell, Python, and Go, significantly improving daily operational efficiency.
-* Optimized Windows Server 2016/2019 performance, including MSSQL tuning, through proactive maintenance and upgrades.
-* Established and enforced IT policies, enhancing security awareness and compliance across the organization.
-* Led and trained support staff in all aspects of IT with little computer background.
+* Built a custom CLI email client to streamline Office 365 automation.
+* Automated workflows with PowerShell, Python, and Go, boosting efficiency.
+* Optimized Windows Server 2016/2019 and MSSQL performance through proactive tuning.
+* Implemented IT policies to strengthen security and compliance.
+* Trained support staff with minimal IT experience, improving team capability.
 
 #### Mount Mansfield Unified Union School District (Helpdesk Coordinator, 2015/07 - 2019/09) 
 
-* Designed and solely wrote a Chrome extension to implement new features in a custom SaaS product that was crucial to day-to-day operations
-* Managed and optimized Windows/Linux servers (on-site and cloud-based), improving efficiency and rack organization for streamlined operations.
-* Resolved IT support requests for ~2700 users, reducing average ticket resolution time by 60% through automation and process improvements while improving staff satisfaction with IT by 40%.
-* Implemented and designed Meraki wireless and wired networking systems, including redundant firewalls
-* Repaired and maintained a fleet of approximately 950 Windows and ChromeOS devices from software to hardware repair including full rebuilds on each type
-* Planned and made purchasing decisions on a $250,000 budget for hardware and software
-* Moved many core-servers to cloud (AWS) computing solutions to save on upgrade costs along with an improved environmental footprint
+* Developed a Chrome extension to enhance a custom SaaS product, improving daily operations.
+* Resolved IT support for ~2700 users, cutting ticket resolution time by 60% and boosting staff satisfaction by 40%.
+* Designed and implemented Meraki wired/wireless networks with redundant firewalls.
+* Maintained and repaired Windows and ChromeOS devices, including full hardware rebuilds.
+* Migrated core servers to AWS, reducing upgrade costs and improving sustainability.
 
 #### Healthy Living Market & Cafe (Point of Sale & IT Assistant, 2014/09 - 2015/06)
 
-* Designed and implemented crucial data manipulation software to assist purchasing and inventory management. 
-  * **Technologies used:** Python, Visual C++, Visual Basic, MS Access, HTML
-* Designed and implemented a parsing script to reduce processing time on flat-files for inventory and purchasing.
-* Diagnosed and repaired multiple hardware and software issues in a thin-client environment
-* Purchased and provisioned Thin clients, Fat clients, and new back-end servers
-
-#### Support.com (Remote Service Technician, 2013/08 - 2014/09)
-
-* Diagnosed computer and networking related issues
-* Assisted customers in configuring and installing new home-networking hardware
-* Diagnosed issues and recommended alternative services for virus removal and system optimization
-* Customer service (de-escalation) over the phone and via email
+* Implemented crucial data manipulation software to purchasing and inventory management. 
+* Automated parsing of flat-files for inventory and purchasing udpates.
+* Troubleshot and resolved hardware and software issues in a thin-client environment.
+* Managed and provisioned thin-clients and workstations with an extremely limited budget.
 
 ## Certifications & Continued Education
 
-* **Learning Go for Developers** from [Boot.dev](https://boot.dev) - [Certificate](https://www.boot.dev/certificates/348e2f53-b8cf-4a4d-bce3-03f263de0bd9)
-* **Learning Algorithms in Python** from [Boot.dev](https://boot.dev) - [Certificate](https://www.boot.dev/certificates/2419e536-c299-4c2a-810f-c9860f20c8bf)
-* **Learning Javascript for Developers** from [Boot.dev](https://boot.dev) - [Certificate](https://www.boot.dev/certificates/e269f592-ab7b-4c56-afa8-9994ce96e2a2)
-* **Learning Object Oriented Programming in Python** from [Boot.dev](https://boot.dev) - [Certificate](https://www.boot.dev/certificates/8c1f7161-5490-4790-ac18-db34ed2f7b14)
-* **Learning Docker** from [Boot.dev](https://boot.dev) - [Certificate](https://www.boot.dev/certificates/702b2b0a-7d8d-4700-b028-e7afff6d5fd8)
-* **Learning Kubernetes** from [Boot.dev](https://boot.dev) - [Certificate](https://www.boot.dev/certificates/de9fe9df-099d-4bc1-bb96-9f5ef26e0a8f)
+* [Learning Go for Developers](https://www.boot.dev/certificates/348e2f53-b8cf-4a4d-bce3-03f263de0bd9) from [Boot.dev](https://boot.dev)
+* [Learning Algorithms in Python](https://www.boot.dev/certificates/2419e536-c299-4c2a-810f-c9860f20c8bf) from [Boot.dev](https://boot.dev)
+* [Learning Javascript for Developers](https://www.boot.dev/certificates/e269f592-ab7b-4c56-afa8-9994ce96e2a2) from [Boot.dev](https://boot.dev)
+* [Learning Object Oriented Programming in Python](https://www.boot.dev/certificates/8c1f7161-5490-4790-ac18-db34ed2f7b14) from [Boot.dev](https://boot.dev)
+* [Learning Docker](https://www.boot.dev/certificates/702b2b0a-7d8d-4700-b028-e7afff6d5fd8) from [Boot.dev](https://boot.dev)
+* [Learning Kubernetes](https://www.boot.dev/certificates/de9fe9df-099d-4bc1-bb96-9f5ef26e0a8f) from [Boot.dev](https://boot.dev)
 
 ## Education
 
@@ -90,6 +80,6 @@
 ## Misc. Information
 
 * **Languages:** English (Native)
-* **Availability:** 2 weeks notice
+* **Availability:** Immediately
 * **Preferred Editor:** NeoVIM, btw
 
